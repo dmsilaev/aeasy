@@ -1,0 +1,931 @@
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+Processing by Adminos::SessionsController#new as HTML
+Completed 500 Internal Server Error in 15ms
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+Processing by Adminos::SessionsController#new as HTML
+Completed 500 Internal Server Error in 19ms
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+Processing by Adminos::SessionsController#new as HTML
+Completed 500 Internal Server Error in 18ms
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 32ms (Views: 31.5ms)
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+----------------------------------------
+AuthGeneratorTest: test_model_generation
+----------------------------------------
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 32ms (Views: 32.2ms)
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 33ms (Views: 32.7ms)
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 32ms (Views: 31.4ms)
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (2.8ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (2.7ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreateUsers (20141002135356)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.6ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar(255), "state" varchar(255), "password_digest" varchar(255), "first_name" varchar(255), "last_name" varchar(255), "confirmation_token" varchar(255), "reset_password_token" varchar(255), "avatar" varchar(255), "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20141002135356"]]
+  [1m[35m (2.2ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.6ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.6ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:16:28.330636"], ["email", "email@example.com"], ["password_digest", "$2a$04$B68h15EVDsTAd5b5/ofQnOPqccsYraZ3Ts8iYoGTphdPuO5r/yb4S"], ["updated_at", "2014-10-02 14:16:28.330636"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#create as HTML
+  Parameters: {"user_sign_in_type"=>{"email"=>"email@example.com", "password"=>"[FILTERED]"}}
+Completed 500 Internal Server Error in 21ms
+  [1m[36m (2.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.9ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (2.1ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:16:29.779292"], ["email", "email@example.com"], ["password_digest", "$2a$04$zWntsdC.0jLySJf.hYStAeRnsmTYtdjxoZW9J4OkH.RtF8pIJB1im"], ["updated_at", "2014-10-02 14:16:29.779292"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.4ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.9ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.4ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:16:30.835197"], ["email", "email@example.com"], ["password_digest", "$2a$04$ncNaP0AcHIE10GBjBU/yo.AzMlRGgDiDkWnOckvZh5cdiriBYIW2u"], ["updated_at", "2014-10-02 14:16:30.835197"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 23ms (Views: 22.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (2.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  "users".* FROM "users"   ORDER BY "users"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.4ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (2.9ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:24:13.498818"], ["email", "email@example.com"], ["password_digest", "$2a$04$YhR3fFOM.aBoSdCKmU84rOoGvnwl.O2l41VSImtczEA3eMHjf93IC"], ["updated_at", "2014-10-02 14:24:13.498818"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#create as HTML
+  Parameters: {"user_sign_in_type"=>{"email"=>"email@example.com", "password"=>"[FILTERED]"}}
+Completed 500 Internal Server Error in 20ms
+  [1m[36m (2.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.9ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.3ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:24:14.765542"], ["email", "email@example.com"], ["password_digest", "$2a$04$hVbPpDIkM/gmxtlNdttImeUK5UJ0rYwzfbPWvspSsdQ6kRvLv9r9i"], ["updated_at", "2014-10-02 14:24:14.765542"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (2.9ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.9ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:24:15.868542"], ["email", "email@example.com"], ["password_digest", "$2a$04$oXp2mqpuGHkRuTCR70mf8.dFn2uOda86vsVWVJMdBgFsWNrywXvMy"], ["updated_at", "2014-10-02 14:24:15.868542"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 26ms (Views: 26.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.7ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.3ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.9ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:24:38.433551"], ["email", "email@example.com"], ["password_digest", "$2a$04$nJxks4XjnmZ0mNqOYWOvsO5.62dOxsPzcL2oyF9OuOgy7oZhHhF3m"], ["updated_at", "2014-10-02 14:24:38.433551"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#create as HTML
+  Parameters: {"user_sign_in_type"=>{"email"=>"email@example.com", "password"=>"[FILTERED]"}}
+Completed 500 Internal Server Error in 20ms
+  [1m[36m (1.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.3ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.4ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.5ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:24:47.347938"], ["email", "email@example.com"], ["password_digest", "$2a$04$OQNn.N4Q85Cv3b4yKkdSv.x5rCdzvMpStuHeFVt3zWaTvcs1MsGpq"], ["updated_at", "2014-10-02 14:24:47.347938"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#create as HTML
+  Parameters: {"user_sign_in_type"=>{"email"=>"email@example.com", "password"=>"[FILTERED]"}}
+Completed 500 Internal Server Error in 21ms
+  [1m[36m (3.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.8ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.7ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:24:49.291756"], ["email", "email@example.com"], ["password_digest", "$2a$04$eU6VjjZriwR963khFAXZuO214T.2keYQCJ3uR5WHyAY/VzM5ykqv."], ["updated_at", "2014-10-02 14:24:49.291756"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (2.9ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (1.0ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.2ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:24:56.937936"], ["email", "email@example.com"], ["password_digest", "$2a$04$WJ/cSxtK8g/Kff8dGPJrNuAT5VeCxftrvDvrsqsiLylprFwrisQ/m"], ["updated_at", "2014-10-02 14:24:56.937936"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 25ms (Views: 24.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.4ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (2.1ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:26:15.167838"], ["email", "email@example.com"], ["password_digest", "$2a$04$2nP9/sydEb6GvI5mAIHhH.BM9WpCEl.KkiOEpB9UFAGbxc5mgf5tq"], ["updated_at", "2014-10-02 14:26:15.167838"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#create as HTML
+  Parameters: {"user_sign_in_type"=>{"email"=>"email@example.com", "password"=>"[FILTERED]"}}
+Completed 500 Internal Server Error in 21ms
+  [1m[36m (1.8ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.8ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.5ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:26:16.529344"], ["email", "email@example.com"], ["password_digest", "$2a$04$Z1NdQ5CmE0ZEzRPP9Y5t2eCCSI6u3PP1SZ.15Iy1YpuR9T5n4x/bO"], ["updated_at", "2014-10-02 14:26:16.529344"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.9ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.1ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:26:17.543799"], ["email", "email@example.com"], ["password_digest", "$2a$04$QfwmpvIhZR3DhNFy24TNx.AV0xTkOXWzANG6/VClH0XQXCh56/8Xm"], ["updated_at", "2014-10-02 14:26:17.543799"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 27ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.4ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.6ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:26:26.743988"], ["email", "email@example.com"], ["password_digest", "$2a$04$.ex46Tr137WZMdckWQ.k1uV2gSWVws.qJdP9BEjgjqPuoTlVJasBi"], ["updated_at", "2014-10-02 14:26:26.743988"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#create as HTML
+  Parameters: {"user_sign_in_type"=>{"email"=>"email@example.com", "password"=>"[FILTERED]"}}
+Completed 500 Internal Server Error in 24ms
+  [1m[36m (8.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.8ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.1ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:26:28.545992"], ["email", "email@example.com"], ["password_digest", "$2a$04$TJQuqQiIwML7eWZ7fqHy0eggmv4vFEvU7BFtxS7YBoOGcMBl9txdC"], ["updated_at", "2014-10-02 14:26:28.545992"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.8ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:26:29.527780"], ["email", "email@example.com"], ["password_digest", "$2a$04$ascwtWpgh9DS2ZoKwzvCUeaN8dUsMcPxvO0bjp4SYiX0xYzONOn3m"], ["updated_at", "2014-10-02 14:26:29.527780"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 25ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (3.3ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+-----------------------------------
+SessionsControllerTest: test_#login
+-----------------------------------
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#logout
+------------------------------------
+  [1m[36m (0.5ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.4ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.9ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:26:50.624142"], ["email", "email@example.com"], ["password_digest", "$2a$04$xgLD7gKS55/cvp.DzYll/e0eP/nxHq9BwJ/dttAuQuisD36iWTJ0C"], ["updated_at", "2014-10-02 14:26:50.624142"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.7ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.1ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:27:01.279027"], ["email", "email@example.com"], ["password_digest", "$2a$04$1Vbfi1FZdaGJVXeLBncR1eFjWLVliwtjoSGdMbUF2/rmGmgVC.P9W"], ["updated_at", "2014-10-02 14:27:01.279027"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.9ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#create
+------------------------------------
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-------------------------------------
+SessionsControllerTest: test_#destroy
+-------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.3ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.9ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:27:33.038350"], ["email", "email@example.com"], ["password_digest", "$2a$04$vJbfSq1tXnjl6BnLbtSGX.Y3BP8fC5M6dqGX4Xfymd5s.nL9b0g.a"], ["updated_at", "2014-10-02 14:27:33.038350"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.6ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:27:33.053015"], ["email", "email@example.com"], ["password_digest", "$2a$04$nOxu1bvAyWb/R.DmkMn.l.6ifupgZQFpHDLRMPhDmold/OHGs9zaS"], ["updated_at", "2014-10-02 14:27:33.053015"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.7ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#create
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-------------------------------------
+SessionsControllerTest: test_#destroy
+-------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.3ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (2.2ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:28:21.115622"], ["email", "email@example.com"], ["password_digest", "$2a$04$VKFaPq0ENxOxpBt30Fekkee.VBCshVnO62ynGIWILWzb9Ti/HDflu"], ["updated_at", "2014-10-02 14:28:21.115622"]]
+  [1m[35m (0.5ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (3.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.9ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.6ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:28:21.139831"], ["email", "email@example.com"], ["password_digest", "$2a$04$BNmZYG9Q1lj4x03brjZ0NOMh36GhaHo.w5lDWSd7t70J/fsUTPxJm"], ["updated_at", "2014-10-02 14:28:21.139831"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 30ms (Views: 29.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#create
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-------------------------------------
+SessionsControllerTest: test_#destroy
+-------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+------------------------------------
+SessionsControllerTest: test_#create
+------------------------------------
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+-------------------------------------
+SessionsControllerTest: test_#destroy
+-------------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.8ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:29:27.819282"], ["email", "email@example.com"], ["password_digest", "$2a$04$JdGfrkQTBURkkd98B93uLOdM63m/TlTaskxUKalgwBrqzhDNgZiqe"], ["updated_at", "2014-10-02 14:29:27.819282"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (2.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------
+SessionsControllerTest: test_#new
+---------------------------------
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.7ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'email@example.com' LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (1.3ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password_digest", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", "2014-10-02 14:29:27.837442"], ["email", "email@example.com"], ["password_digest", "$2a$04$SUJhGuj3UglHHt9YtrrlSOVOzv6JwEMjXX8XyN4o0UJrwDkMrRMGS"], ["updated_at", "2014-10-02 14:29:27.837442"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by Adminos::SessionsController#new as HTML
+Completed 200 OK in 31ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.7ms)[0m  [1mrollback transaction[0m
