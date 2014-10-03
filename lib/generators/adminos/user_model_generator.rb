@@ -3,10 +3,10 @@ require 'rails/generators/active_record'
 
 module Adminos
   module Generators
-    class AuthGenerator < Rails::Generators::Base
+    class UserModelGenerator < Rails::Generators::Base
       source_root File.expand_path('../templates', __FILE__)
 
-      def generate_user_model
+      def generate_model
         invoke(
           'active_record:model',
           ['User', [
@@ -21,46 +21,17 @@ module Adminos
           ]],
           migration: true, timestamps: true
         )
-
-        invoke(
-          'active_record:model',
-          ['Guest', [
-            'email:string',
-            'state:string',
-            'password_digest:string',
-            'first_name:string',
-            'last_name:string',
-            'confirmation_token:string',
-            'reset_password_token:string',
-            'avatar:string'
-          ]],
-          migration: false, timestamps: true
-        )
       end
 
 
-      def inject_user_model_content
-        content = user_model_contents
+      def inject_model_content
+        content = model_contents
         inject_into_class('app/models/user.rb', 'User', content)
-      end
-
-
-
-      # def inject_guest_model_content
-      #   content = guest_model_contents
-      #   inject_into_class('app/models/guest.rb', 'Guest', content)
-      # end
-
-      def add_auth_routes
-        auth_route  = "scope module: :adminos do\n"
-        auth_route << "    resource :session, only: [:new, :create, :destroy]\n"
-        auth_route << "  end"
-        route auth_route
       end
 
       private
 
-      def user_model_contents
+      def model_contents
         <<-CONTENT
   has_secure_password validations: false
 

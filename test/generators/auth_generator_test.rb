@@ -15,11 +15,6 @@ class AuthGeneratorTest < Rails::Generators::TestCase
     assert_file 'config/routes.rb', /resource :session/
   end
 
-  test 'model generation' do
-    run_generator
-    assert_file 'app/models/user.rb', /state_machine initial: :waiting_confirmation/
-  end
-
   def copy_routes
     routes = File.expand_path('../../rails_app/config/routes_example.rb', __FILE__)
     destination = File.join(destination_root, 'config')
