@@ -23,7 +23,6 @@ module Adminos
         )
       end
 
-
       def inject_model_content
         content = model_contents
         inject_into_class('app/models/user.rb', 'User', content)
@@ -70,14 +69,6 @@ module Adminos
 
   def to_s
     "\#\{first_name\} \#\{last_name\}"
-  end
-        CONTENT
-      end
-
-      def guest_model_contents
-        <<-CONTENT
-  def guest?
-    true
   end
         CONTENT
       end

@@ -1131,3 +1131,9 @@ GuestModelGeneratorTest: test_user_model_generation
 GuestModelGeneratorTest: test_user_model_generation
 ---------------------------------------------------
   [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+---------------------------------------------------------------
+AuthGeneratorTest: test_route_generation_for_simple_model_names
+---------------------------------------------------------------
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
