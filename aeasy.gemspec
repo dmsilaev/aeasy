@@ -4,12 +4,12 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'adminos/auth/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "adminos-auth"
+  spec.name          = "aeasy"
   spec.version       = Adminos::Auth::VERSION
   spec.authors       = ["Dmitry Silaev"]
   spec.email         = ["dmsilaev@yandex.ru"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Aeasy: простой кастомный генератор модели пользователя для rails приложений }
+  spec.description   = %q{С помощью этого гема можно создать простую модель пользователя, с регистрацией и авторизацией}
   spec.homepage      = ""
   spec.license       = "MIT"
 

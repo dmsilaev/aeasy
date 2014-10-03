@@ -2,7 +2,7 @@ require 'test_helper'
 require 'generators/adminos/user_model_generator'
 
 class UserModelGeneratorTest < Rails::Generators::TestCase
-  tests Adminos::Generators::UserModelGenerator
+  tests Aeasy::Generators::UserModelGenerator
   destination File.expand_path('../../tmp', __FILE__)
 
   setup do

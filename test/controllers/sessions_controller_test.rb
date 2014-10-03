@@ -1,7 +1,7 @@
 require 'test_helper'
 
 class SessionsControllerTest < ActionController::TestCase
-  tests Adminos::SessionsController
+  tests Aeasy::SessionsController
 
   setup do
     @user = User.create(email: 'email@example.com', password: 'password')

@@ -2,7 +2,7 @@ require 'test_helper'
 require 'generators/adminos/guest_model_generator'
 
 class GuestModelGeneratorTest < Rails::Generators::TestCase
-  tests Adminos::Generators::GuestModelGenerator
+  tests Aeasy::Generators::GuestModelGenerator
   destination File.expand_path('../../tmp', __FILE__)
 
   setup do

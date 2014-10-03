@@ -1,6 +1,6 @@
 require 'rails/generators/base'
 
-module Adminos
+module Aeasy
   module Generators
     class AuthGenerator < Rails::Generators::Base
       source_root File.expand_path('../templates', __FILE__)

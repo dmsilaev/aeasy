@@ -1,5 +1,5 @@
 module Concerns
-  module Adminos
+  module Aeasy
     module AuthManagment
       def sign_in(user)
         session[:user_id] = user.id

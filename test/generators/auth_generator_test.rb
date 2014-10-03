@@ -2,7 +2,7 @@ require 'test_helper'
 require 'generators/adminos/auth_generator'
 
 class AuthGeneratorTest < Rails::Generators::TestCase
-  tests Adminos::Generators::AuthGenerator
+  tests Aeasy::Generators::AuthGenerator
   destination File.expand_path('../../tmp', __FILE__)
 
   setup do

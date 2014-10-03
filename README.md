@@ -1,4 +1,4 @@
-# Adminos::Auth
+# Aeasy
 
 Кастомизированная регистрация, авторизация, модель пользователя для гема adminos.
 
@@ -7,13 +7,13 @@
 Добавьте следующую строку в ваш Gemfile:
 
 ```ruby
-gem 'adminos-auth'
+gem 'aeasy'
 ```
 
 После чего выполните:
 
     $ bundle
-    $ rails g adminos_auth:install
+    $ rails g aeasy:install
 
 Это сгенерирует необходимые файлы и маршруты.
 
